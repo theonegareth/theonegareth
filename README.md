@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theonegareth
-- 👀 I’m interested in computer science :)
-- 🌱 I’m currently learning competitive programming and minecraft plugin development
-- 💞️ I’m looking to collaborate on minecraft plugins
+- 👀 I’m interested in Internet of Things (IoT)
+- 🌱 I’m currently learning Automotive and Robotics Engineering @ Binus ASO School of Engineering
 - 📫 How to reach me The Salty Gareth#8406
 
 <!---
