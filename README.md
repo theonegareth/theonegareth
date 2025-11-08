@@ -27,9 +27,9 @@
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR-EMAIL@domain.com
-- Portfolio/Notion: https://YOUR-PORTFOLIO.link
+- LinkedIn: https://www.linkedin.com/in/theonegareth
+- Email: theonegareth@gmail.com
+- Portfolio/Notion: https://theonegareth.com
 
 ---
 
